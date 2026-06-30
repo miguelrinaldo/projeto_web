@@ -3,7 +3,28 @@ label{
     margin: 20px 0px;
 }
 
-input[type="text"], select{
+input-txt01, .input-txt02{
     height: 30px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+
+select{
+    height: 60px;
+}
+
+.input-txt01, textarea{
+    width: 400px;
+}
+
+input-txt02, select{
+    width: 260px;
+}
+
+textarea{
+    height: 250px;
+    resize: none;
+    padding: 10px;
     border-radius: 5px;
 }
