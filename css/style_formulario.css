@@ -1,0 +1,9 @@
+label{
+    display: block;
+    margin: 20px 0px;
+}
+
+input[type="text"], select{
+    height: 30px;
+    border-radius: 5px;
+}
