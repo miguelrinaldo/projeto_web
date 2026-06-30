@@ -1,0 +1,31 @@
+/*
+seletor{
+        propriedade: valor;
+        propriedade: valor;
+
+}
+*/
+
+p{
+    font-family: Helvetica;
+    font-size: 1.2em;
+    text-align: justify;
+    line-height: 35px;
+}
+
+#paragrafo01{
+    margin-left: 200px;
+
+}
+
+#paragrafo02{
+    margin-right: 200px;
+}
+
+.paragrafos{
+    color: #e20837;
+}
+
+.especial{
+    background-color: burlywood;
+}
